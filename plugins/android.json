@@ -9,6 +9,7 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.example.hello"
+<<<<<<< HEAD
         },
         "cordova-plugin-admobpro": {
             "PACKAGE_NAME": "com.example.hello"
@@ -19,4 +20,9 @@
             "PACKAGE_NAME": "com.example.hello"
         }
     }
+=======
+        }
+    },
+    "dependent_plugins": {}
+>>>>>>> origin/master
 }

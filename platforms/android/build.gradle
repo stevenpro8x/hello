@@ -241,7 +241,10 @@ dependencies {
     // SUB-PROJECT DEPENDENCIES START
     debugCompile project(path: "CordovaLib", configuration: "debug")
     releaseCompile project(path: "CordovaLib", configuration: "release")
+<<<<<<< HEAD
     compile "com.google.android.gms:play-services-ads:+"
+=======
+>>>>>>> origin/master
     // SUB-PROJECT DEPENDENCIES END
 }
 

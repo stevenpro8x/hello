@@ -6,6 +6,7 @@
         },
         "is_top_level": true,
         "variables": {}
+<<<<<<< HEAD
     },
     "cordova-plugin-admobpro": {
         "source": {
@@ -22,5 +23,7 @@
         },
         "is_top_level": false,
         "variables": {}
+=======
+>>>>>>> origin/master
     }
 }
